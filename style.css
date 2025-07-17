@@ -1,0 +1,47 @@
+/* Estilos generales */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fdf6f9; /* fondo rosado muy suave */
+  color: #333333; /* gris oscuro para el texto */
+  margin: 0;
+  padding: 30px;
+}
+
+/* Título principal */
+h1 {
+  text-align: center;
+  color: #c2185b; /* rosado oscuro */
+  margin-bottom: 40px;
+}
+
+/* Caja de cada semestre */
+.semestre {
+  background-color: #fff8fb; /* fondo rosado pastel */
+  border-left: 6px solid #e91e63; /* línea vertical rosada fuerte */
+  padding: 20px;
+  margin-bottom: 25px;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(200, 200, 200, 0.2);
+}
+
+/* Título de semestre */
+.semestre h2 {
+  margin-top: 0;
+  color: #7b1fa2; /* morado pastel/grisáceo */
+}
+
+/* Lista sin viñetas */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Cada ramo */
+li {
+  background-color: #f8bbd0; /* rosado pastel claro */
+  color: #3a3a3a;
+  margin: 8px 0;
+  padding: 10px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.
